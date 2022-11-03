@@ -4,4 +4,4 @@
 ### Membuat Paragraf
 membuat program luas dan keliling lingkaran `<p>`
 ini adalah tampilannya
-![ing]screenshot/ss1.png
+![Gambar 1](screenshot/ss1.png)
